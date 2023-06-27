@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bool-violaceo:#9c72e4;
+    --bool-azzurrino:#47adf1;
+    --bool-arancio:#f29e33;
+    --bool-verdeacqua:#64c0a9;
+    --bool-rosa:#d863a1;
+    --bool-verde:#b0c926
+}
