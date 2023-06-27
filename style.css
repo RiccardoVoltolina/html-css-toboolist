@@ -58,7 +58,11 @@
     border: 1px solid lightgray;
     color: lightgray;
 }
-/*fine header*/
+/*fine button*/
+
+section {
+    margin-top: 40px;
+}
 
 .v {
     border: 1px solid green;
@@ -67,7 +71,34 @@
     padding: 3px;
 }
 
-.sottosezioni {
-    margin-top: 10px;
+.r {
+    border: 1px solid red;
+    color: red;
+    border-radius: 50%;
+    padding: 3px; 
 }
+
+.sottosezioni {
+    margin-top: 20px;
+}
+/*fine prima sezione*/
+
+.viola {
+    background-color: var(--bool-violaceo);
+    border: none;
+    color: white;
+}
+
+.verde {
+    background-color: var(--bool-verdeacqua);
+    border: none;
+    color: white;
+}
+
+.arancio {
+    background-color: var(--bool-arancio);
+    border: none;
+    color: white;
+}
+
 
