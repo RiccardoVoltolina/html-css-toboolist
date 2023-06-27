@@ -117,7 +117,7 @@ section {
 }
 
 main {
-    width: 90%;
+    width: 80%;
     margin: auto;
 }
 
@@ -128,4 +128,5 @@ main {
 
 .due {
     padding-top: 20px;
+    padding-bottom: 20px;
 }
