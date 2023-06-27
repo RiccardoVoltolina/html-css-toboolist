@@ -10,5 +10,18 @@
     --bool-arancio:#f29e33;
     --bool-verdeacqua:#64c0a9;
     --bool-rosa:#d863a1;
-    --bool-verde:#b0c926
+    --bool-verde:#b0c926;
+    --bool-grigio:#e8e9ea;
 }
+
+.logo_toboolist {
+    height: 50px;
+    background-color: red;
+}
+
+
+.titolo {
+    display: inline;
+    margin-top: 50%;
+}
+
