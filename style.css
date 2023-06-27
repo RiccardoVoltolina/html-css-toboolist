@@ -50,6 +50,7 @@ body {
 .button {
     padding: 10px;
     border-radius: 15%;
+    cursor: pointer;
 }
 
 .a {
@@ -73,14 +74,21 @@ section {
     border: 1px solid green;
     color: green;
     border-radius: 50%;
-    padding: 3px;
+    height: 30px;
+    width: 30px;
+    padding: 7px;
+    display: inline-block;
 }
 
 .r {
     border: 1px solid red;
     color: red;
     border-radius: 50%;
-    padding: 3px; 
+    padding-top: 5px; 
+    padding-left: 9px;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
 }
 
 .sottosezioni {
@@ -136,4 +144,13 @@ main {
 
 .triangolo {
     font-size: small;
+}
+
+/*correzione bottoni*/
+
+.click {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 15%;
+    cursor: pointer;
 }
