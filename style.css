@@ -37,7 +37,7 @@
     background-color: white;
     padding: 25px;
     border: 1px solid lightgray;
-    ;
+    margin-bottom: 40px;
 
 }
 
@@ -58,5 +58,16 @@
     border: 1px solid lightgray;
     color: lightgray;
 }
+/*fine header*/
 
+.v {
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.sottosezioni {
+    margin-top: 10px;
+}
 
