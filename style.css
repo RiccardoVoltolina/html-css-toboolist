@@ -16,8 +16,8 @@
 
 .logo_toboolist {
     height: 80px;
-    background-color: red;
     padding: 20px;
+    margin-bottom: 40px;
 }
 
 .immagine {
@@ -30,4 +30,33 @@
     vertical-align: 15px;
     height: 50px;
 }
+/*fine header*/
+
+.bottoni {
+    height: 80px;
+    background-color: white;
+    padding: 25px;
+    border: 1px solid lightgray;
+    ;
+
+}
+
+.button {
+    padding: 10px;
+    border-radius: 15%;
+    
+}
+
+.a {
+    background-color: var(--bool-azzurrino);
+    border: none;
+    color: white;
+}
+
+.b {
+    background-color: white;
+    border: 1px solid lightgray;
+    color: lightgray;
+}
+
 
