@@ -15,13 +15,19 @@
 }
 
 .logo_toboolist {
-    height: 50px;
+    height: 80px;
     background-color: red;
+    padding: 20px;
+}
+
+.immagine {
+    height: 50px;
 }
 
 
 .titolo {
-    display: inline;
-    margin-top: 50%;
+    display: inline-block;
+    vertical-align: 15px;
+    height: 50px;
 }
 
