@@ -95,6 +95,18 @@ section {
     color: white;
 }
 
+.verdognolo {
+    background-color: var(--bool-verde);
+    border: none;
+    color: white;
+}
+
+.rosa{
+    background-color: var(--bool-rosa);
+    border: none;
+    color: white;
+}
+
 .arancio {
     background-color: var(--bool-arancio);
     border: none;
