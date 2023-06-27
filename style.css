@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: lightgrey;
+    background-color: #e8e9ea;
+    font-family: 'Roboto', sans-serif;
 }
 
 :root {
@@ -34,6 +35,7 @@ body {
     display: inline-block;
     vertical-align: 15px;
     height: 50px;
+    font-size: xx-large;
 }
 /*fine header*/
 
@@ -129,4 +131,9 @@ main {
 .due {
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.triangolo {
+    font-size: small;
 }
